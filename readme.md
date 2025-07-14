@@ -1,5 +1,8 @@
 # Jarvis Ai
 
-Frontend: React
-Backend: Express Js
-Api: Open Ai
+
+Frontend: **React Js**.
+
+Backend: **Express Js**.
+
+Api: **Open Ai**.
